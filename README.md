@@ -26,3 +26,9 @@ The Arora LLP wants to create an annual attrition report for 2023, So that, the 
 
 ![Screenshot (4)](https://github.com/user-attachments/assets/b845f308-ed1d-4898-a5f9-0836c44d7c8e)
 
+
+## Project Insight
+
+* Life science department (38%), Medical (27%), Marketing (15%), Technical Degree (14%) and Other (5%) attrition by education
+* 
+
