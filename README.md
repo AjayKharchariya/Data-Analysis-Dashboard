@@ -4,3 +4,12 @@ The Arora LLP wants to create an annual attrition report for 2023, So that, the 
 
 ## Dataset used
 - <a href="https://github.com/AjayKharchariya/Data-Analysis-Dashboard/blob/main/HR_Analytics.csv">Dataset</a>
+## Question (KPIs)
+
+- How Mnay attrition epmloees by education using bar chart
+- Attrition by emploees age
+- Who attrition more - men or women ?
+- Attrition rate by all-over comapny
+- Attrition by salary
+- Attrition by job role
+- Pridicted Attrition count of year
