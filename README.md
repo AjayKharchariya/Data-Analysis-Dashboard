@@ -22,4 +22,7 @@ The Arora LLP wants to create an annual attrition report for 2023, So that, the 
 - created pivot tables accroding to the question asked.
 - Merge all pivot tables into one dashboard and apply slicer to make dynamic.
 
+## Dashboard
+
+![Screenshot (4)](https://github.com/user-attachments/assets/b845f308-ed1d-4898-a5f9-0836c44d7c8e)
 
