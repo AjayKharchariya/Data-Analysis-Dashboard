@@ -32,6 +32,13 @@ The Arora LLP wants to create an annual attrition report for 2023, So that, the 
 ## Project Insight
 
 * Life science department (38%), Medical (27%), Marketing (15%), Technical Degree (14%) and Other (5%) attrition by education
-* Employee age between 25-35 years are more attriton(116) and lowest age attrition 55 plus(9)
-* 
+* Employee aged between 25-35 years are more attriton(116) and lowest age attrition 55 plus(9)
+* Attrition is higher for those with upto 5k or more salaries and lower for those with 15k salaries.
+* Attrition is high for those working for 0 to 5 years and lower for those 10 years.
+* Male attrition higher then female, Male attrition (140) and female (79)
+* Attrition increases for those working in laboratory technicians(62) and decreases for those working in sales Representive(33)
+* All Over attrition of years years count are (237)
+  
+  
+  
 
