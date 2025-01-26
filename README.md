@@ -24,7 +24,8 @@ The Arora LLP wants to create an annual attrition report for 2023, So that, the 
 
 ## Dashboard
 
-![image](https://github.com/user-attachments/assets/66a777a7-eb1c-431e-b3c5-7576df3ae011)
+![Screenshot (5)](https://github.com/user-attachments/assets/f97a78d9-486f-4f4f-a6e6-5825349a2fa6)
+
 
 
 
